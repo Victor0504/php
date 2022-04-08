@@ -1,5 +1,5 @@
 <?php
 
-	echo "Hello World! Glad you came";
+	echo "Glad you came! Gold forever ";
 
 ?>
